@@ -7,7 +7,7 @@ A Next.js 16 project with App Router and TypeScript.
 - **Next.js 16** with App Router
 - **TypeScript** for type safety
 - **Tailwind CSS** for styling
-- **ESLint** for code quality (manual execution only)
+- **ESLint** for code quality (runs only when explicitly called)
 
 ## Build Configuration
 
